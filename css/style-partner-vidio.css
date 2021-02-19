@@ -1,0 +1,150 @@
+* {
+	margin: 0px
+	padding: 0px;
+}
+.banner {
+	min-width: 300px;
+	height: auto;
+	margin-top: 55px;
+}
+.partner-item {
+	width: 100%;
+	min-height: 135px;
+	background-color: #5C72EA;
+}
+.partner-item h6 {
+	padding-top: 10px;
+}
+.partner-item ul {
+	list-style-type: none;
+}
+.partner-item ul li {
+	display: inline-flex;
+	padding-right: 20px;
+}
+.kompas {
+	padding-bottom: 6px;
+}
+.vidio {
+	
+}
+.judul {
+	padding-top: 65px;
+}
+.footer {
+	width: 100%;
+	height: 400px;
+	background-color: #57575B;
+}
+.logo_footer {
+	margin-top: 65px;
+}
+.judul-h6-1 {
+	margin-top: 70px;
+	padding-left: 0;
+}
+.judul-h6-1 h6 {
+	padding-bottom: 10px;
+}
+.ul-li-1 ul {
+	list-style-type: none;
+	padding-left: 0;
+	color: #000000;
+}
+.ul-li-1 li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+}
+
+.judul-h6-2 {
+	margin-top: 70px;
+	padding-left: 0;
+}
+.judul-h6-2 h6 {
+	padding-bottom: 10px;
+}
+.ul-li-2 ul {
+	list-style-type: none;
+	padding-left: 0;
+	color: #000000;
+}
+.ul-li-2 li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+}
+.ul-li-2 li:last-child {
+	padding-bottom: 0px;
+}
+.ul-li-2 p {
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+.judul-h6-3 {
+	margin-top: 70px;
+	padding-left: 0;
+}
+.judul-h6-3 h6 {
+	padding-bottom: 10px;
+}
+.ul-li-3 ul {
+	list-style-type: none;
+	padding-left: 0;
+	color: #000000;
+}
+.ul-li-3 li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+}
+.ul-li-3 a {
+	color: #FFFFFF;
+}
+.box-shadow:hover {
+	cursor: pointer;
+	 box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+.box-shadow {
+	padding-right: 20px;
+    width: 188px;
+    height: 250px;
+}
+.card-img-top {
+	display: block;
+    width: 153px;
+    height: 120px;
+}
+.card-body {
+	-webkit-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 14px;
+    width: 185px;
+}
+.card-body h5 {
+	text-align: center;
+}
+.card-text {
+	font-size: 8px;
+}
+
+.bagian_card {
+	width: 100%;
+	background-image: url(../img/bg-kursus.jpg);
+	background-size: cover;
+}
+
+.h5_judul {
+	margin-top: 20px;
+	text-align: center !important;
+}
+
+.ml-auto .dropdown-menu {
+      left: auto !important;
+      right: 0px;
+    }
+
+.css-item {
+	width:180px !important;
+}
